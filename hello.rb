@@ -1,1 +1,2 @@
-puts "hello, world!"
+name = "Derek"
+puts "hello, " + name + "!"
